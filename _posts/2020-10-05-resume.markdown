@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "resume"
+date: 2020-10-05 15:21:46 -0600
+categories: muchsmart
+---
+<h1> Work History </h1>
+<b>MX</b>
+
+<b>LiveAuctioneers</b>
+
+<b>Mountain America</b>
+
+<b>Etrade</b>
+<h1> Education </h1>
+<b> University of Utah </b>
+
+<b> Westminster College </b>
+<h1> Funsies </h1>
