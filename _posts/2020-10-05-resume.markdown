@@ -1,19 +1,20 @@
 ---
 layout: post
-title:  "resume"
+title:  "Resume"
 date: 2020-10-05 15:21:46 -0600
 categories: muchsmart
 ---
 <h1> Work History </h1>
-<b>MX</b>
+<b>MX</b> - Data Analyst
 
-<b>LiveAuctioneers</b>
+<b>LiveAuctioneers</b> - Business Strategy Analyst
 
-<b>Mountain America</b>
+<b>Mountain America</b> - Wealth Advisor
 
-<b>Etrade</b>
+<b>Etrade</b> - Tax & Cost Basis Specialist
 <h1> Education </h1>
-<b> University of Utah </b>
+<b> University of Utah </b> - MBA w/ Certificate in Information Systems
 
-<b> Westminster College </b>
+<b> Westminster College </b> - Bachelors of Business
 <h1> Funsies </h1>
+Now that I am done with school I've been spending more time with Ruby on Rails, more advanced SQL functions, some python and finding hobbies outside the house! I've tried cooking, pottery and woodworking classes so far. Coming up in the next couple weeks will be getting back into Aerial Hoop, trying more rock climbing and trying to learn to not hate running (LOL).
