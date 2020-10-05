@@ -4,7 +4,9 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Data Analyst ramping up technical skills looking for an engineering role. Most frequently used Ruby on Rails, JavaScript, Java, SQL and some other things.
+I like learning so working on expanding that list :nerd-face:
+<!-- i eedited this one -->
 
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /
