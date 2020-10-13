@@ -6,15 +6,42 @@ categories: brains
 ---
 <h1> Work History </h1>
 <b>MX</b> - Data Analyst
+{% highlight ruby %}
+Owned the Investment Data Enhancement product. Utilizing SQL, Ruby on Rails, Excel and internal tools, manipulate alphanumeric observations with natural language processing in order to correctly cleanse and categorize investment banking transactions, holdings and account data. Work alongside the engineering team to determine gaps in the product and contribute to code for backend solutions.
 
+Projects include new ingestion process for partner data, new natural language processing tools, processing alphanumeric data to create deep financial insights and updated aggregation mapping solutions. These changes have created 250% increase in transaction accuracy within investments, 23% increase in holdings accuracy and several new financial insights being consumed by banks and end users.
+
+Other notable experiences are having created 3 grassroots cultural groups including a Pride advocacy group.
+{% endhighlight %}
 <b>LiveAuctioneers</b> - Business Strategy Analyst
-
+{% highlight ruby %}
+Handled business and strategy analysis for the technology team; including research, reporting, documentation and streamlining processes. Through analysis found $250,000 in annual savings for the technology team, increased team throughput 20% with optimizations and helped build an automated regression suite to increase our site stability score 80%.
+{% endhighlight %}
 <b>Mountain America</b> - Wealth Advisor
-
+{% highlight ruby %}
+Worked in a partnership of three Wealth Advisors assisting members of Mountain America Credit Union with retirement planning, estate planning as well as general investment advice bringing in $3 mill in AUM personally. Educated members on growing their wealth while protecting against market volatility, inflation, healthcare costs and taxes.
+Creating better product tracking by creating product maturity tracker and reminders on important dates helping increase new business 21% YoY. Implemented more formal branch trainings to increase new business and implemented social security and retirement seminars for members.
+{% endhighlight %}
 <b>Etrade</b> - Tax & Cost Basis Specialist
-<h1> Education </h1>
-<b> University of Utah </b> - MBA w/ Certificate in Information Systems
+{% highlight ruby %}
+Worked in the Cost Basis, Tax, and Retirement department that handled cost basis inquiries, cost basis updates (e.g. mergers, acquisitions, death), and incoming phone calls to provide accurate information for clients, financial advisors and other employees. The team also reviewed tax documents for accuracy and compliance with IRS rules and regulations, handled IRA contributions and distributions, and death distributions. 
 
-<b> Westminster College </b> - Bachelors of Business
-<h1> Funsies </h1>
-Now that I am done with school I've been spending more time with Ruby on Rails, more advanced SQL functions, some python and finding hobbies outside the house! I've tried cooking, pottery and woodworking classes so far. Coming up in the next couple weeks will be getting back into Aerial Hoop, trying more rock climbing and trying to learn to not hate running (probably not realistic).
+Key Highlights: 
+•Handled highest number of calls and cases in my department on a month-to-month basis while maintaining an eye for detail to ensure the data being reported was accurate for our clients. 
+•Maintained efficiency at prioritizing between cases that needed to be handled immediately versus those that could have a longer lag time due to account value.
+{% endhighlight %}
+<h1> Education </h1>
+<b> University of Utah </b> - MBA w/ Certificate in Information Systems<br>
+Graduated: June 2020<br>
+<b> Westminster College </b> - Bachelors of Business <br>
+Graduated: June 2018
+
+<h1> Community Work </h1>
+I value community care and spend a lot of my freetime working with non-profits across Salt Lake City. COVID has changed what is available to do but my most consistent organizations to work with include:
+* Ching Farm
+* Salt Lake Mutual Aid
+* Utah Harm Reduction Coalition
+* Rape Recovery Center
+* Planned Parenthood
+<h1> For Fun </h1>
+Now that I am done with school I've been spending more time with Ruby on Rails, more advanced SQL functions, some python and finding hobbies outside the house! So far I've tried cooking, pottery and woodworking classes. Coming up in the next couple weeks will be getting back into Aerial Hoop, trying more rock climbing and trying to learn to not hate running (probably not realistic).
