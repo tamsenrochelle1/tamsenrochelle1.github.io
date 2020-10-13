@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Favorites"
+date:   2020-10-05 15:21:46 -0600
+categories: facts
+---
+
+Animals:
+* Bats
+* Snails (bugs, but still)
+* Dogs (all dogs)
+
+Foods:
+* Nachos
+* Burritos
+* Pasta! 
