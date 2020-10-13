@@ -2,7 +2,7 @@
 layout: post
 title:  "Resume"
 date: 2020-10-05 15:21:46 -0600
-categories: muchsmart
+categories: brains
 ---
 <h1> Work History </h1>
 <b>MX</b> - Data Analyst
