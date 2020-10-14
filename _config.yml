@@ -29,9 +29,10 @@ linkedin_username: tamsenreid
 github_username:  tamsenrochelle1
 
 # Build settings
-theme: minima
- # plugins:
- #   - jekyll-feed
+remote_theme: jekyll-theme-clean-blog
+# plugins:
+#     - jekyll-feed
+#     - jekyll-coffeescript
 
 # Exclude from processing.
 # The following items will not be processed, by default.
