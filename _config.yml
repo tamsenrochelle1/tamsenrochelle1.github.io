@@ -27,11 +27,14 @@ url: "https://tamsenrochelle1.github.io" # the base hostname & protocol for your
 
 social_links:
   linkedin: tamsenreid
-  github:  tamsenrochelle1
+  github: tamsenrochelle1
 
+twitter_username: tamsenreid
+github_username: tamsenrochelle1
 # Build settings
 theme: minima
-
+plugins:
+  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
